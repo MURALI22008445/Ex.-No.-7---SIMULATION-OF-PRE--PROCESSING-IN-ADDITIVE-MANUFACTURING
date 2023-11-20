@@ -47,7 +47,7 @@
 ## Output:
 ![image](https://github.com/SAKTHISWAR/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/blob/main/8.png)
 
-### Name: MURALI   S
+### Name: MURALI  S
 ### Register Number: 212222230088
 
 ## Result: 
